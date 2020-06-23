@@ -9,6 +9,7 @@ class About extends Component {
         <h1>About</h1>
         <h1>About</h1>
         <h1>About</h1>
+        <h1>ghsdafghuiiufhguitsdgfsg</h1>
         <h1>About</h1>
         <h1>About</h1>
         <h1>About</h1>
